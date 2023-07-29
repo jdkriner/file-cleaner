@@ -1,8 +1,6 @@
 import time
 import os
-
-directory = ['/home/jack/Downloads', '/home/jack/Desktop']
-suffix = '_SCH'
+from params import directory, suffix
 
 x=0
 if x == 0:
